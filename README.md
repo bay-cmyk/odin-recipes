@@ -1,1 +1,1 @@
-# odin-recipes
+This is my attempt to build a recipes website for the Recipes Assignment in The Odin Project, using the HTML info that I've learnt so far.  # odin-recipes
