@@ -14,6 +14,7 @@ div {
     height: 300px;
     padding: 15px;
     margin: 0px auto -250px auto;
+    font-size: 20px;
 }
 
 .autumn {
@@ -30,4 +31,11 @@ div {
 
 .summer {
     background-color: rgb(255, 227, 133);
+}
+
+.home {
+    width: 30px;
+    border-bottom: 5px solid rgb(252, 195, 137);
+    border-bottom-style: double;
+    padding: 2px;
 }
