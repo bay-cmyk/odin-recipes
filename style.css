@@ -4,6 +4,9 @@ body {
     background-color: rgb(254, 236, 212);
 }
 
+.title {
+    margin: 50px auto;
+}
 div {
     box-sizing: border-box;
     width: 300px;
