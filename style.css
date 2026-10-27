@@ -6,8 +6,23 @@ body {
 }
 
 div {
-    background-color: red;
     width: 300px;
     padding: 10px;
     margin: 5px auto;
+}
+
+.autumn {
+    background-color: #f8a64e;
+}
+
+.winter {
+    background-color: rgb(125, 227, 255);
+}
+
+.spring {
+    background-color: #ffd1f3;
+}
+
+.summer {
+    background-color: rgb(255, 227, 133);
 }
