@@ -41,4 +41,16 @@ body {
     border-bottom: 5px solid rgb(252, 195, 137);
     border-bottom-style: double;
     padding: 2px;
+
+}
+
+.recipe {
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+    padding: 100px 0 0 0;
+    margin: 5px;
+    box-sizing: border-box;
+    display: inline-block;
 }
