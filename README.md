@@ -10,9 +10,10 @@ Dal Palak picture:
     Author: Marco Verch - https://ccnull.de/cms/nutzungsbedingungen
     CC: https://creativecommons.org/licenses/by/2.0/
 
-Chickpeas picture:
-    Author: https://pxhere.com/en/photo/643959
-    CC: https://creativecommons.org/publicdomain/certification/1.0/us/
+Pumkin picture:
+    Author: Public domain
+    Link: https://picryl.com/media/white-orange-pumpkin-backgrounds-textures-6124fd
+    CC: https://creativecommons.org/publicdomain/mark/1.0/
 
 Pinsa picture:
     Author: Marco Verch - https://www.flickr.com/photos/wuestenigel/55221621080
