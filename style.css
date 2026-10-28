@@ -1,7 +1,11 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(254, 236, 212);
-    text-align: center;
+    background-color: rgb(241, 240, 240);
 }
 
 ul,
@@ -11,20 +15,6 @@ ol {
 
 .title {
     margin: 50px auto;
-}
-
-.autumn,
-.winter,
-.spring,
-.summer {
-    box-sizing: border-box;
-    width: 300px;
-    height: 300px;
-    padding: 15px;
-    margin: 0px auto -250px auto;
-    font-size: 20px;
-    border: 2px solid black;
-    text-align: center;
 }
 
 .autumn {
@@ -49,26 +39,37 @@ ol {
     padding: 2px;
 }
 
-.recipe {
+.card {
     border: 2px solid black;
-    width: 300px;
-    height: 300px;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
-    font-size: 20px;
     font-weight: 900;
+    font-size: 20px;
+    width: 300px;
+    height: 50px;
+    padding: 10px;
     margin: 5px auto;
-    padding: 100px 0 0 0;
-    box-sizing: border-box;
-    display: inline-block;
 }
 
+.pumpkin {
+    background-color: #a14300;
+}
+
+.halloumi {
+    background-color: #cd5907;
+}
+
+.soup {
+    background-color: #f8a64e;
+}
+
+.cinnamon {
+    background-color: #ffd6ab;
+}
 .img {
-    box-sizing: border-box;
     height: 200px;
 }
 
 .tip {
-    box-sizing: border-box;
     max-width: 500px;
     font-size: 13px;
     margin: 10px 50px;
