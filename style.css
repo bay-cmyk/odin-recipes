@@ -1,7 +1,13 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    text-align: center;
     background-color: rgb(254, 236, 212);
+}
+
+h1,
+h2,
+p,
+.recipe {
+    text-align: center;
 }
 
 .title {
@@ -19,6 +25,7 @@ body {
     margin: 0px auto -250px auto;
     font-size: 20px;
     border: 2px solid black;
+    text-align: center;
 }
 
 .autumn {
@@ -41,16 +48,22 @@ body {
     border-bottom: 5px solid rgb(252, 195, 137);
     border-bottom-style: double;
     padding: 2px;
-
 }
 
 .recipe {
     border: 2px solid black;
     width: 300px;
     height: 300px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
+    font-weight: 900;
     margin: 5px 0;
     padding: 100px 0 0 0;
     box-sizing: border-box;
     display: inline-block;
+}
+
+.img {
+    box-sizing: border-box;
+    height: 200px;
 }
