@@ -14,5 +14,8 @@ Soup picture:
     Link: https://pxhere.com/en/photo/1627904
     CC: https://creativecommons.org/publicdomain/certification/1.0/us/
 
+Cinnamon Rolls picture:
+    Author: Tim Sackton - https://www.flickr.com/photos/sackton/24928477932
+    CC: https://creativecommons.org/licenses/by-sa/2.0/
 
-     # odin-recipes
+# odin-recipes

@@ -1,11 +1,11 @@
-* {
-    text-align: center;
+* {   
     box-sizing: border-box;
 }
 
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(241, 240, 240);
+    text-align: center;
 }
 
 ul,
@@ -30,7 +30,7 @@ ol {
 }
 
 .summer {
-    background-color: rgb(255, 227, 133);
+    background-color: rgb(227, 243, 78);
 }
 
 .home {
