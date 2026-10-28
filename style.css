@@ -60,6 +60,20 @@ ol {
     display: inline-block;
 }
 
+
+.img {
+    height: 200px;
+}
+
+.tip {
+    max-width: 500px;
+    font-size: 13px;
+    margin: 10px 50px;
+    padding: 15px;
+    background-color: rgb(209, 255, 253);
+    border: 5px dashed rgb(135, 211, 255);
+}
+
 .pumpkin {
     background-color: #a14300;
 }
@@ -75,16 +89,19 @@ ol {
 .cinnamon {
     background-color: #ffd6ab;
 }
-.img {
-    height: 200px;
+
+.curry {
+    background-color: #0063a1;
 }
 
-.tip {
-    max-width: 500px;
-    font-size: 13px;
-    margin: 10px 50px;
-    padding: 15px;
-    background-color: rgb(209, 255, 253);
-    border: 5px dashed rgb(135, 211, 255);
+.tofu {
+    background-color: #149bef;
 }
 
+.salti {
+    background-color: #60baf1;
+}
+
+.ginger {
+    background-color: #b4e2ff;
+}
