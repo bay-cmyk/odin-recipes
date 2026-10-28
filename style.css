@@ -77,31 +77,36 @@ ol {
 .pumpkin {
     background-color: #a14300;
 }
-
 .halloumi {
     background-color: #cd5907;
 }
-
 .soup {
     background-color: #f8a64e;
 }
-
 .cinnamon {
     background-color: #ffd6ab;
 }
-
 .curry {
     background-color: #0063a1;
 }
-
 .tofu {
     background-color: #149bef;
 }
-
 .salti {
     background-color: #60baf1;
 }
-
 .ginger {
     background-color: #b4e2ff;
+}
+.risotto {
+    background-color: #aa2fae;
+}
+.lomo{
+    background-color: #fb87ff;
+}
+.taco {
+    background-color: #fcb0ff;
+}
+.brownies{
+    background-color: #fdcaff;
 }
